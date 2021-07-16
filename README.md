@@ -14,4 +14,4 @@ This repository contains various datasets and software implemented as part of a 
 3. Boyang Liu, Mengying Sun, Ding Wang, Pang-Ning Tan, and Jiayu Zhou. Learning Deep Neural Networks under Agnostic Corrupted Supervision. To appear in Proc of Int'l Conf on Machine Learning (ICML 2021), 2021. [GitHub] 
 
 ## Acknowledgments:
-
+This project is supported by the National Science Foundation under grant \#IIS-2006633. Any use of trade, firm, or product names is for descriptive purposes only and does not imply endorsement by the U.S. Government.
