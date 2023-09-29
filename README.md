@@ -4,7 +4,7 @@ This repository contains various datasets and software implemented as part of a 
 
 ## List of Software:
 
-* [SELF-RECOVER](https://github.com/galib19/Self-Recover)[8]: This repository contains the python implementation for  forecasting extreme values from multiple time series with missing values.
+* [SELF-RECOVER](https://github.com/galib19/Self-Recover)[8]: This repository contains the python implementation for forecasting extreme values from multiple time series containing missing values via a self-supervised learning approach.
 * [DEMM](https://github.com/ampersandmcd/DeepExtremeMixtureModel)[7]: This repository contains the python implementation of a deep learning-based hurdle model with extreme value theory to enable point and distribution prediction of zero-inflated, heavy-tailed spatiotemporal variables.
 * [DeepExtrema](https://github.com/galib19/DeepExtrema-IJCAI22-)[6]: This repository contains the python implementation of a deep neural network framework for forecasting the block maximum value of a time series according to the generalized extreme value (GEV) distribution.
 * [COMETFlows](https://github.com/ampersandmcd/COMETFlows)[5]: This repository contains the python implementation of a deep generative model architecture designed to capture asymmetric heavy-tailedness and tail
